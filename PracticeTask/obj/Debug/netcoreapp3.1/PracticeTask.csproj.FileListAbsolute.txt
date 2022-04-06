@@ -1,0 +1,14 @@
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.exe
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.deps.json
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.runtimeconfig.json
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.runtimeconfig.dev.json
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.dll
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\bin\Debug\netcoreapp3.1\PracticeTask.pdb
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.csproj.AssemblyReference.cache
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.AssemblyInfoInputs.cache
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.AssemblyInfo.cs
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.csproj.CoreCompileInputs.cache
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.dll
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.pdb
+C:\Users\tu7bxfga8\source\repos\PracticeTask\PracticeTask\obj\Debug\netcoreapp3.1\PracticeTask.genruntimeconfig.cache
